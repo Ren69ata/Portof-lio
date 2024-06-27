@@ -1,0 +1,11 @@
+body{
+    height: 100vh;
+    background: linear-gradient(rgb(171, 27, 27), rgb(228, 52, 52), rgb(244, 14, 14));
+}
+
+form{
+    background: rgba(0, 0, 0, 0.407);
+    border-radius: 12px;
+    text-align: center;
+    color: #fff;
+}
